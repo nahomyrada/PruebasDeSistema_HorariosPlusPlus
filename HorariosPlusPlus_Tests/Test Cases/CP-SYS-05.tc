@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CP-SYS-05</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1e88dfe8-f4ee-4888-a116-9f86db4e3885</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d73d2e64-6be8-420c-ab9c-06de983db613</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d091c7a2-83a4-46a7-8e1e-5f771964e258</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d73d2e64-6be8-420c-ab9c-06de983db613</id>
+      <masked>false</masked>
+      <name>var_user</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d091c7a2-83a4-46a7-8e1e-5f771964e258</id>
+      <masked>false</masked>
+      <name>var_pass</name>
+   </variable>
+</TestCaseEntity>

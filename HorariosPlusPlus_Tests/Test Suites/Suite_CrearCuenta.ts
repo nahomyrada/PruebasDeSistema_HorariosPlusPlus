@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Suite_CrearCuenta</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>981b9cbb-e1d8-47de-80e8-abdaf0d165c2</testSuiteGuid>
+   <testCaseLink>
+      <guid>60cc81d9-315f-4c18-9d16-bbe7d6e8baee</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CP-SYS-01</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>242ae0ca-bf14-489c-bf02-a9c641641993</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CP-SYS-02</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e2618c5f-d268-4b3c-bd08-fdf6af67c12c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CP-SYS-03</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c4da318d-937e-496b-b064-50999a641fbf</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CP-SYS-04</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>36ec35f3-1986-436e-8618-e99617e3259f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CP-SYS-05</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d73d2e64-6be8-420c-ab9c-06de983db613</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d091c7a2-83a4-46a7-8e1e-5f771964e258</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3c80dc3b-ea23-4d78-bf26-ff29ea1b6644</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CP-SYS-06</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0391cb7c-a9c8-4104-9c3d-08b0fb3b0023</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CP-SYS-07</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7e2e7a6b-c6f7-4c16-a59d-23bbff91514f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CP-SYS-08</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>71ec07f7-ddfe-41af-b092-81fc0659b03a</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-7</value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>71ec07f7-ddfe-41af-b092-81fc0659b03a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>f5427635-c7ad-4d3f-b7f0-4fa69c5cdbf1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>71ec07f7-ddfe-41af-b092-81fc0659b03a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>0241ee2e-9e5e-48ea-b9b6-c2ae8d9401c2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>71ec07f7-ddfe-41af-b092-81fc0659b03a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ResultadoEsperado</value>
+         <variableId>a9af6d24-c03f-44b9-b4e0-04ebd075943c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

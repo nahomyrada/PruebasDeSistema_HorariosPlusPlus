@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Editar Cursos_editable-section-container</name>
+   <tag></tag>
+   <elementGuidId>8377f758-51c1-4ccf-8c00-93954c1a8f03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.editable-section-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>abe31ad3-db14-4c03-aa57-ce67e39ac683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>editable-section-container</value>
+      <webElementGuid>7f8d3224-7a0b-4bd8-a25b-03132a8e19b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nuevo Curso 1NRC: Teacher: Dias: AñadirLunesMartesMiercolesJuevesViernesSábadoDomingo67891011121314151617181920001530456789101112131415161718192000153045 Remover Guardar</value>
+      <webElementGuid>9bad9215-a26d-469f-b8e9-8126ec885e6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;main-container&quot;]/div[@class=&quot;section-edit-container&quot;]/div[@class=&quot;editable-section-container&quot;]</value>
+      <webElementGuid>bc63ab22-c1aa-4592-8de6-78b6b75c820a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[3]/div</value>
+      <webElementGuid>a8447683-7b9d-48e9-a7d2-905dc008cf13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Editar Cursos'])[1]/following::div[2]</value>
+      <webElementGuid>9486c85f-0ad4-465a-8374-24c440e5aa05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Añadir Curso'])[1]/following::div[2]</value>
+      <webElementGuid>74137fe0-41b9-4a67-8d38-fd809b556c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>b4b80bb6-e27b-4add-bc9f-10afa1022411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nuevo Curso 1NRC: Teacher: Dias: AñadirLunesMartesMiercolesJuevesViernesSábadoDomingo67891011121314151617181920001530456789101112131415161718192000153045 Remover Guardar' or . = 'Nuevo Curso 1NRC: Teacher: Dias: AñadirLunesMartesMiercolesJuevesViernesSábadoDomingo67891011121314151617181920001530456789101112131415161718192000153045 Remover Guardar')]</value>
+      <webElementGuid>60a3c1d1-a3e7-4761-a442-f282b02983da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

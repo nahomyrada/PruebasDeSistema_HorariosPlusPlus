@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Administrar Usuarios_description-container</name>
+   <tag></tag>
+   <elementGuidId>cb3d1971-90e2-48dd-8e55-e7dc2c91e677</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.description-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>64813112-8de5-4575-bdd4-8063c7cb29cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>description-container</value>
+      <webElementGuid>954f0cd8-f05c-457e-9427-e4b6ee5984e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HorariosPlusPlusPlanea, Genera, Controla y Visualiza tu Horario Universitario.</value>
+      <webElementGuid>4775db4b-dbea-4d0e-bce2-05fc3516ab15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;screen-container&quot;]/div[@class=&quot;description-container&quot;]</value>
+      <webElementGuid>e511105b-50c4-45d6-bf93-e27ff15fb9ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div</value>
+      <webElementGuid>5a5d9ea4-46ae-4396-81fb-79a1ac0c065f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrar Usuarios'])[1]/following::div[4]</value>
+      <webElementGuid>95ca0230-d210-47e9-a97f-409cd98dd600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrar Eventos'])[1]/following::div[5]</value>
+      <webElementGuid>b0be529b-7475-48db-ade9-121e89b594d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>8680f67a-5cd9-4dd8-b8a1-c2f01a44d018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'HorariosPlusPlusPlanea, Genera, Controla y Visualiza tu Horario Universitario.' or . = 'HorariosPlusPlusPlanea, Genera, Controla y Visualiza tu Horario Universitario.')]</value>
+      <webElementGuid>2ffbbb3c-2085-4b2b-99ae-7df35a1da927</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

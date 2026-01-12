@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body</name>
+   <tag></tag>
+   <elementGuidId>0c5a0b73-6851-470f-8e12-fcca7d882ece</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>8366f600-d85e-46ad-b33a-295a38899b91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You need to enable JavaScript to run this app.Horarios++Iniciar SesionCrear CuentaInicio de SesionIniciar SesionNo tienes cuenta? Crear Usuarioid(&quot;root&quot;)/div[1]/div[@class=&quot;main-container&quot;]/div[@class=&quot;login-container&quot;]/div[@class=&quot;login-bg&quot;]/div[@class=&quot;login-password&quot;]/input[1]</value>
+      <webElementGuid>ddcc23a6-2adb-4bf9-9a19-aff82093aa9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+      <webElementGuid>f71d7340-0e34-4b58-8766-eee23bbd714e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>caa91c04-e719-4b0a-ad24-e84ad518da4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'You need to enable JavaScript to run this app.Horarios++Iniciar SesionCrear CuentaInicio de SesionIniciar SesionNo tienes cuenta? Crear Usuarioid(&quot;root&quot;)/div[1]/div[@class=&quot;main-container&quot;]/div[@class=&quot;login-container&quot;]/div[@class=&quot;login-bg&quot;]/div[@class=&quot;login-password&quot;]/input[1]' or . = 'You need to enable JavaScript to run this app.Horarios++Iniciar SesionCrear CuentaInicio de SesionIniciar SesionNo tienes cuenta? Crear Usuarioid(&quot;root&quot;)/div[1]/div[@class=&quot;main-container&quot;]/div[@class=&quot;login-container&quot;]/div[@class=&quot;login-bg&quot;]/div[@class=&quot;login-password&quot;]/input[1]')]</value>
+      <webElementGuid>c76eb428-d2c1-45ae-93f6-4d2efa6fad4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
