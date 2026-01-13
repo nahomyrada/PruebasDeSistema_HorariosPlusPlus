@@ -9,9 +9,9 @@
    <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>10.4.1</modifiedVersion>
+   <modifiedVersion>10.4.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/nahomyrada/Katalon Studio/HorariosPlusPlus_Tests/HorariosPlusPlus_Tests.prj</projectFileLocation>
+   <projectFileLocation>/home/gcrespo/dev/PruebasDeSistema_HorariosPlusPlus/HorariosPlusPlus_Tests/HorariosPlusPlus_Tests.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
